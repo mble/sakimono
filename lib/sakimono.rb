@@ -1,5 +1,5 @@
 require "sakimono/version"
+require 'sakimono/future'
 
 module Sakimono
-  # Your code goes here...
 end
